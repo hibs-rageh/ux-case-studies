@@ -6,20 +6,26 @@
 
 This repository includes detailed case studies covering:
 
-- [**Service Design Blueprinting – Digital Banking Onboarding**](digital-banking-onboarding.md)  
+
+- **✳ Service Design Blueprinting – Digital Banking Onboarding** | [digital-banking-onboarding.md](digital-banking-onboarding.md)  
   End-to-end onboarding experience redesigned using service blueprinting.
 
-- [**Localizing an AI Financial Assistant Across MENA**](ai-localization-mena.md)  
+- **✳ Localizing an AI Financial Assistant Across MENA** | [ai-localization-mena.md](ai-localization-mena.md)  
   Cultural UX research for fintech AI, adapting tone, flow, and trust signals across 5 markets.
 
-- [**Commercial Real Estate Journey Transformation**](real-estate-journey.md)  
+- **✳ Commercial Real Estate Journey Transformation** | [real-estate-journey.md](real-estate-journey.md)  
   Journey mapping and blueprinting to reduce tenant onboarding delays and increase conversion.
 
-- [**Enhancing Digital Experience for Gen Z in the GCC**](genz-digital-experience.md)  
+- **✳ Enhancing Digital Experience for Gen Z in the GCC** | [genz-digital-experience.md](genz-digital-experience.md)  
   A/B testing, surveys, and sentiment analysis to modernize the user journey.
 
-- [**Research Ops Uplift at a SaaS Company**](saas-research-ops.md)  
+- **✳ Research Ops Uplift at a SaaS Company** | [saas-research-ops.md](saas-research-ops.md)  
   Building research infrastructure: templates, repositories, enablement programs.
+
+- **✳ Gaming UX Research – Desktop Strategy Game** | [gaming-ux-research-case-study-desktop-onboarding.txt](gaming-ux-research-case-study-desktop-onboarding.txt)  
+  Redesigning the first 15 minutes of gameplay: onboarding optimization for retention, motivation, and localization across EN/AR markets.
+
+
   
 Each case study includes:
 - 📌 **Project Overview**  

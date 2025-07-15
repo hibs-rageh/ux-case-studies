@@ -22,7 +22,7 @@ This repository includes detailed case studies covering:
 - **✳ Research Ops Uplift at a SaaS Company** | [saas-research-ops.md](saas-research-ops.md)  
   Building research infrastructure: templates, repositories, enablement programs.
 
-- **✳ Gaming UX Research – Desktop Strategy Game** | [gaming-ux-research-case-study-desktop-onboarding.txt](gaming-ux-research-case-study-desktop-onboarding.txt)  
+- *** Gaming UX Research – Desktop Strategy Game*** | [ux_game_case_study.md](ux_game_case_study.md)  
   Redesigning the first 15 minutes of gameplay: onboarding optimization for retention, motivation, and localization across EN/AR markets.
 
 

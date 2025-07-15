@@ -5,6 +5,8 @@
 **Duration:** 12 weeks  
 **Team:** Product Manager, 2 Engineers, Analytics Lead, Game Designer  
 
+<img width="1727" height="916" alt="Screenshot 2025-07-15 at 11 57 03 AM" src="https://github.com/user-attachments/assets/72f499c1-e9cf-429e-af07-d329e575a6f6" />
+
 ---
 
 ## Executive Summary
@@ -137,6 +139,8 @@ Our analytics revealed a critical problem: **60% of new users abandoned the game
 ## User Research Insights
 
 ### Persona Development
+<img width="1727" height="916" alt="Screenshot 2025-07-15 at 11 58 08 AM" src="https://github.com/user-attachments/assets/405a770a-8c67-4bfe-acd4-8aeb7bfd4674" />
+
 Through comprehensive user research, three distinct user archetypes emerged:
 
 #### Youssef - The Competitive Strategist (KSA)
@@ -665,6 +669,7 @@ Beyond immediate metrics improvements, this research established a foundation fo
 - **Prototype Files:** Lovable implementation with full interaction specifications
 - **Video Documentation:** Session recordings and stakeholder presentations
 - **Cultural Adaptation Guide:** Framework for international expansion
+
 
 ---
 

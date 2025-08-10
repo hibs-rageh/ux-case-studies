@@ -1,72 +1,79 @@
-# Case Study: Transforming the Patient Digital Experience in Genetic Testing App
+# 🩺 Case Study: Transforming the Patient Digital Experience in Genetic Testing
 
-## Project Overview
+---
+
+## 📌 Project Overview
 **Duration:** 3 Months  
 **Role:** Lead UX Researcher  
 **Focus:** Enhance the **digital experience** for patients undergoing genetic testing — from initial sign-up to receiving results.
 
-The patient journey was fragmented, with unclear digital touchpoints, confusing instructions, and a lack of transparency during waiting periods. This led to high dropout rates, increased anxiety, and repeated support requests.
+> The patient journey was fragmented, with unclear digital touchpoints, confusing instructions, and a lack of transparency during waiting periods. This led to high dropout rates, increased anxiety, and repeated support requests.
 
 ---
 
-## My Role
-- **Planned and executed** patient-focused UX research across **digital channels** (patient portal, onboarding flow, notifications).
-- **Applied mixed methods** — usability testing, remote interviews, surveys, and analytics review — to uncover core experience gaps.
-- **Synthesized** UX insights with web analytics and market benchmarks to prioritize improvements.
-- **Collaborated** with product managers, designers, and engineering teams to implement changes directly into the digital roadmap.
+## 🎯 My Role
+- **Planned and executed** patient-focused UX research across **digital channels** (patient portal, onboarding flow, notifications).  
+- **Applied mixed methods** — usability testing, remote interviews, surveys, and analytics review — to uncover core experience gaps.  
+- **Synthesized** UX insights with web analytics and market benchmarks to prioritize improvements.  
+- **Collaborated** with product managers, designers, and engineers to integrate solutions into the product roadmap.  
 
 ---
 
-## Research Approach
+## 🔍 Research Approach
 
-### 1. Discovery
-- **Patient interviews** (n=15) to map digital journey expectations.
-- **Survey** (n=120, 72% response rate) to quantify pain points in portal usage and onboarding.
+### **1. Discovery**
+- **15 patient interviews** to map expectations and emotional states.  
+- **Survey** (n=120, 72% response rate) to quantify portal usage pain points.  
 - **Analytics review** revealed a **40% drop-off** during account creation.
 
-### 2. Evaluation
-- **Usability testing** (8 participants) on the current patient portal.
-  - Found that 65% of patients could not locate their test status without assistance.
-- **Content review** of onboarding emails and result notifications for clarity and tone.
+### **2. Evaluation**
+- **Usability testing** (8 participants) revealed that **65% of patients** couldn’t locate their test status without help.  
+- **Content audit** of onboarding emails and results notifications for clarity and tone.
 
-### 3. Synthesis
-- Built a **CX Journey Map** for the digital patient experience, highlighting:
-  - Confusion during onboarding
-  - Lack of proactive status updates
-  - Unclear next steps post-results
-
----
-
-## Key Findings
-1. **Onboarding Drop-off**
-   - Account creation form too long, lacking progress indicators.
-2. **Status Tracking Gaps**
-   - Patients unsure when results would be ready; no real-time updates.
-3. **Tone & Accessibility**
-   - Medical jargon and inconsistent tone created anxiety.
+### **3. Synthesis**
+- Created a **CX Journey Map** for the patient’s digital experience:
+  - Confusion during onboarding  
+  - Lack of proactive status updates  
+  - Unclear next steps post-results  
 
 ---
 
-## Solutions Implemented
-- **Simplified onboarding**: Reduced steps from 6 to 3, added a progress bar → **Drop-off decreased by 35%**.
-- **Real-time test tracker**: Added visual progress stages (“Sample Received,” “In Analysis,” “Results Ready”) → **Support tickets for status inquiries dropped by 40%**.
-- **Proactive notifications**: Email + SMS updates for key milestones → **Patient satisfaction scores increased by 25%**.
-- **Plain language rewrite**: Adjusted portal copy and results summaries for better accessibility.
+## 📊 Key Findings
+
+| Finding | Impact |
+|---------|--------|
+| **Onboarding drop-off** | Account creation form too long, no progress indicator |
+| **Status tracking gaps** | Patients unsure when results would be ready |
+| **Tone & accessibility** | Medical jargon increased anxiety |
 
 ---
 
-## Impact
+## 💡 Solutions Implemented
+- **Simplified onboarding** → Reduced steps from 6 to 3, added progress bar (**+35% completion**).  
+- **Real-time test tracker** → Added “Sample Received,” “In Analysis,” “Results Ready” stages (**-40% status inquiries**).  
+- **Proactive notifications** → Email & SMS updates at key milestones (**+25% CSAT**).  
+- **Plain language rewrite** → Improved comprehension for all reading levels.
+
+---
+
+## 📈 Impact
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
 | Onboarding completion rate | 60% | 81% | +35% |
 | Status inquiry tickets | High | Reduced by 40% | -40% |
-| Patient satisfaction (CSAT) | 3.2/5 | 4.0/5 | +25% |
+| Patient satisfaction (CSAT) | 3.2 / 5 | 4.0 / 5 | +25% |
 
 ---
 
-## Deliverables
-- Patient Digital Journey Map
-- Usability Test Report with Severity Ratings
-- Updated Onboarding Wireframes & Notification Templates
-- Metrics Dashboard for Post-Launch Tracking
+## 📂 Deliverables
+- 🗺 **Patient Digital Journey Map** *(image placeholder)*  
+- 📝 **Usability Test Report** with severity ratings  
+- 🎨 **Updated Wireframes** for onboarding & notifications *(image placeholder)*  
+- 📊 **Post-launch Metrics Dashboard*  
+
+---
+
+## 📷 Visuals
+![Journey Map Placeholder](images/journey-map.png)  
+![Wireframe Placeholder](images/wireframe.png)

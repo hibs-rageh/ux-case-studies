@@ -6,7 +6,6 @@
 
 This repository includes detailed case studies covering:
 
-
 - **✳ Service Design Blueprinting – Digital Banking Onboarding** | [digital-banking-onboarding.md](digital-banking-onboarding.md)  
   End-to-end onboarding experience redesigned using service blueprinting.
 
@@ -22,8 +21,15 @@ This repository includes detailed case studies covering:
 - **✳ Research Ops Uplift at a SaaS Company** | [saas-research-ops.md](saas-research-ops.md)  
   Building research infrastructure: templates, repositories, enablement programs.
 
-**🎮 Gaming UX Research – Desktop Strategy Game** | [ux_game_case_study.md](ux_game_case_study.md)
+- **✳ Healthcare UX Research – Patient Digital Experience in Genetic Testing** | [healthcare-genetic-testing.md](healthcare-genetic-testing.md)  
+  Led end-to-end UX research across digital (portals, websites) and physical touchpoints (kits, reports), optimizing patient onboarding and results delivery for higher engagement and trust.
+
+- **✳ Health Informatics Case Study – Hospital Performance Analytics** | [health-informatics-analytics.md](health-informatics-analytics.md)  
+  Applied quantitative analysis of hospital performance metrics (readmission rates, patient satisfaction, clinical outcomes) to inform operational efficiency strategies and improve patient care outcomes.
+
+**🎮 Gaming UX Research – Desktop Strategy Game** | [ux_game_case_study.md](ux_game_case_study.md)  
   Redesigning the first 15 minutes of gameplay: onboarding optimization for retention, motivation, and localization across EN/AR markets.
+
 
 
   

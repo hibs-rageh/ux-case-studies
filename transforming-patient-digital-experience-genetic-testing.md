@@ -70,10 +70,6 @@
 - 🗺 **Patient Digital Journey Map** *(image placeholder)*  
 - 📝 **Usability Test Report** with severity ratings  
 - 🎨 **Updated Wireframes** for onboarding & notifications *(image placeholder)*  
-- 📊 **Post-launch Metrics Dashboard*  
+- 📊 **Po<img width="1024" height="1536" alt="20250810_1409_Healthcare Wireframe Designs_simple_compose_01k29q7a0rfemvn9gyqy2zwmyc" src="https://github.com/user-attachments/assets/2acec3c1-d11d-4d6f-a9e5-33b4505fec46" />
+st-launch Metrics Dashboard*  
 
----
-
-## 📷 Visuals
-![Journey Map Placeholder](images/journey-map.png)  
-![Wireframe Placeholder](images/wireframe.png)

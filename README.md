@@ -21,10 +21,10 @@ This repository includes detailed case studies covering:
 - **✳ Research Ops Uplift at a SaaS Company** | [saas-research-ops.md](saas-research-ops.md)  
   Building research infrastructure: templates, repositories, enablement programs.
 
-- **✳ Healthcare UX Research – Patient Digital Experience in Genetic Testing** | [healthcare-genetic-testing.md](healthcare-genetic-testing.md)  
+- **✳ Healthcare UX Research – Patient Digital Experience in Genetic Testing** | [Transforming Patient Digital Experience – Genetic Testing](https://github.com/hibs-rageh/ux-case-studies/blob/main/transforming-patient-digital-experience-genetic-testing.md)  
   Led end-to-end UX research across digital (portals, websites) and physical touchpoints (kits, reports), optimizing patient onboarding and results delivery for higher engagement and trust.
 
-- **✳ Health Informatics Case Study – Hospital Performance Analytics** | [health-informatics-analytics.md](health-informatics-analytics.md)  
+- **✳ Health Informatics Case Study – Strategic AI Integration** | [Strategic AI Integration in Health Informatics](https://github.com/hibs-rageh/ux-case-studies/blob/main/strategic_ai_integration_case_study.md)  
   Applied quantitative analysis of hospital performance metrics (readmission rates, patient satisfaction, clinical outcomes) to inform operational efficiency strategies and improve patient care outcomes.
 
 **🎮 Gaming UX Research – Desktop Strategy Game** | [ux_game_case_study.md](ux_game_case_study.md)  
